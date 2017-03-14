@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/eventlist">
+    <Resource
+    name="jdbc/EventsDB"
+    auth="Container"
+    type="javax.sql.DataSource"
+    maxActive="100"
+    maxIdle="30"
+    maxWait="10000"
+    driverClassName="org.apache.derby.jdbc.EmbeddedDriver"
+    url="jdbc:derby:eventsDatabase"
+    />
+</Context>

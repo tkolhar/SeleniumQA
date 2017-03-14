@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="23" passed="23">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="334337" started-at="2017-02-21T17:55:45Z" finished-at="2017-02-21T18:01:19Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="334337" started-at="2017-02-21T17:55:45Z" finished-at="2017-02-21T18:01:19Z">
+      <class name="readEventTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:readEventTest@5315b42e]" name="beforeMethod" is-config="true" duration-ms="6639" started-at="2017-02-21T12:56:03Z" finished-at="2017-02-21T12:56:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="readRecordWeek()[pri:0, instance:readEventTest@5315b42e]" name="readRecordWeek" duration-ms="14161" started-at="2017-02-21T12:56:10Z" description="Test to Read the Records Weekly" finished-at="2017-02-21T12:56:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readRecordWeek -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:readEventTest@5315b42e]" name="afterMethod" is-config="true" duration-ms="3244" started-at="2017-02-21T12:56:24Z" finished-at="2017-02-21T12:56:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:readEventTest@5315b42e]" name="beforeMethod" is-config="true" duration-ms="7677" started-at="2017-02-21T12:56:27Z" finished-at="2017-02-21T12:56:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="readRecordMonth()[pri:0, instance:readEventTest@5315b42e]" name="readRecordMonth" duration-ms="8540" started-at="2017-02-21T12:56:35Z" description="Test to Read the Records Monthly" finished-at="2017-02-21T12:56:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readRecordMonth -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:readEventTest@5315b42e]" name="afterMethod" is-config="true" duration-ms="4808" started-at="2017-02-21T12:56:44Z" finished-at="2017-02-21T12:56:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:readEventTest@5315b42e]" name="beforeMethod" is-config="true" duration-ms="11003" started-at="2017-02-21T12:56:48Z" finished-at="2017-02-21T12:56:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="readRecordQuarter()[pri:0, instance:readEventTest@5315b42e]" name="readRecordQuarter" duration-ms="12960" started-at="2017-02-21T12:56:59Z" description="Test to Read the Records Quarterly" finished-at="2017-02-21T12:57:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readRecordQuarter -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:readEventTest@5315b42e]" name="afterMethod" is-config="true" duration-ms="5320" started-at="2017-02-21T12:57:12Z" finished-at="2017-02-21T12:57:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:readEventTest@5315b42e]" name="beforeMethod" is-config="true" duration-ms="7119" started-at="2017-02-21T12:57:18Z" finished-at="2017-02-21T12:57:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="readDetailView()[pri:0, instance:readEventTest@5315b42e]" name="readDetailView" duration-ms="21058" started-at="2017-02-21T12:57:25Z" description="Test to click on an item to show a &quot;detail view&quot; of item" finished-at="2017-02-21T12:57:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readDetailView -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:readEventTest@5315b42e]" name="afterMethod" is-config="true" duration-ms="6997" started-at="2017-02-21T12:57:46Z" finished-at="2017-02-21T12:57:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:readEventTest@5315b42e]" name="beforeMethod" is-config="true" duration-ms="5925" started-at="2017-02-21T12:57:53Z" finished-at="2017-02-21T12:57:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="addRecordPositive()[pri:0, instance:readEventTest@5315b42e]" name="addRecordPositive" duration-ms="22197" started-at="2017-02-21T12:57:59Z" finished-at="2017-02-21T12:58:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addRecordPositive -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:readEventTest@5315b42e]" name="afterMethod" is-config="true" duration-ms="2787" started-at="2017-02-21T12:58:21Z" finished-at="2017-02-21T12:58:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:readEventTest@5315b42e]" name="beforeMethod" is-config="true" duration-ms="6174" started-at="2017-02-21T12:58:24Z" finished-at="2017-02-21T12:58:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="invalidDateNegative()[pri:0, instance:readEventTest@5315b42e]" name="invalidDateNegative" duration-ms="22029" started-at="2017-02-21T12:58:30Z" finished-at="2017-02-21T12:58:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidDateNegative -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:readEventTest@5315b42e]" name="afterMethod" is-config="true" duration-ms="2671" started-at="2017-02-21T12:58:52Z" finished-at="2017-02-21T12:58:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:readEventTest@5315b42e]" name="beforeMethod" is-config="true" duration-ms="6411" started-at="2017-02-21T12:58:55Z" finished-at="2017-02-21T12:59:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="emptyDetailsNegative()[pri:0, instance:readEventTest@5315b42e]" name="emptyDetailsNegative" duration-ms="21538" started-at="2017-02-21T12:59:01Z" finished-at="2017-02-21T12:59:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyDetailsNegative -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:readEventTest@5315b42e]" name="afterMethod" is-config="true" duration-ms="3657" started-at="2017-02-21T12:59:23Z" finished-at="2017-02-21T12:59:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:readEventTest@5315b42e]" name="beforeMethod" is-config="true" duration-ms="6280" started-at="2017-02-21T12:59:26Z" finished-at="2017-02-21T12:59:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="nonAlphanumericDetailsNegative()[pri:0, instance:readEventTest@5315b42e]" name="nonAlphanumericDetailsNegative" duration-ms="22058" started-at="2017-02-21T12:59:32Z" finished-at="2017-02-21T12:59:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nonAlphanumericDetailsNegative -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:readEventTest@5315b42e]" name="afterMethod" is-config="true" duration-ms="2692" started-at="2017-02-21T12:59:55Z" finished-at="2017-02-21T12:59:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:readEventTest@5315b42e]" name="beforeMethod" is-config="true" duration-ms="7190" started-at="2017-02-21T12:59:57Z" finished-at="2017-02-21T13:00:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="longLengthDetailsNegative()[pri:0, instance:readEventTest@5315b42e]" name="longLengthDetailsNegative" duration-ms="36299" started-at="2017-02-21T13:00:04Z" finished-at="2017-02-21T13:00:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- longLengthDetailsNegative -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:readEventTest@5315b42e]" name="afterMethod" is-config="true" duration-ms="2531" started-at="2017-02-21T13:00:41Z" finished-at="2017-02-21T13:00:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:readEventTest@5315b42e]" name="beforeMethod" is-config="true" duration-ms="6016" started-at="2017-02-21T13:00:43Z" finished-at="2017-02-21T13:00:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="deleteRecord()[pri:0, instance:readEventTest@5315b42e]" name="deleteRecord" duration-ms="26343" started-at="2017-02-21T13:00:49Z" finished-at="2017-02-21T13:01:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteRecord -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:readEventTest@5315b42e]" name="afterMethod" is-config="true" duration-ms="3702" started-at="2017-02-21T13:01:16Z" finished-at="2017-02-21T13:01:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- readEventTest -->
+      <class name="ApiTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:ApiTest@42d3bd8b]" name="beforeMethod" is-config="true" duration-ms="94" started-at="2017-02-21T12:55:45Z" finished-at="2017-02-21T12:55:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="httpPost()[pri:0, instance:ApiTest@42d3bd8b]" name="httpPost" duration-ms="16181" started-at="2017-02-21T12:55:45Z" finished-at="2017-02-21T12:56:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- httpPost -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:ApiTest@42d3bd8b]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2017-02-21T12:56:01Z" finished-at="2017-02-21T12:56:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="httpGetSingle()[pri:0, instance:ApiTest@42d3bd8b]" name="httpGetSingle" duration-ms="1530" started-at="2017-02-21T12:56:01Z" finished-at="2017-02-21T12:56:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- httpGetSingle -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:ApiTest@42d3bd8b]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2017-02-21T12:56:03Z" finished-at="2017-02-21T12:56:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="httpPostUpdate()[pri:0, instance:ApiTest@42d3bd8b]" name="httpPostUpdate" duration-ms="59" started-at="2017-02-21T12:56:03Z" finished-at="2017-02-21T12:56:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- httpPostUpdate -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:ApiTest@42d3bd8b]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2017-02-21T12:56:03Z" finished-at="2017-02-21T12:56:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="httpDeleteNegative()[pri:0, instance:ApiTest@42d3bd8b]" name="httpDeleteNegative" duration-ms="48" started-at="2017-02-21T12:56:03Z" finished-at="2017-02-21T12:56:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- httpDeleteNegative -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:ApiTest@42d3bd8b]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2017-02-21T12:56:03Z" finished-at="2017-02-21T12:56:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="httpDeleteEmpty()[pri:0, instance:ApiTest@42d3bd8b]" name="httpDeleteEmpty" duration-ms="30" started-at="2017-02-21T12:56:03Z" finished-at="2017-02-21T12:56:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- httpDeleteEmpty -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:ApiTest@42d3bd8b]" name="beforeMethod" is-config="true" duration-ms="2" started-at="2017-02-21T12:56:03Z" finished-at="2017-02-21T12:56:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="httpPostNegative()[pri:0, instance:ApiTest@42d3bd8b]" name="httpPostNegative" duration-ms="39" started-at="2017-02-21T12:56:03Z" finished-at="2017-02-21T12:56:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- httpPostNegative -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:ApiTest@42d3bd8b]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2017-02-21T12:56:03Z" finished-at="2017-02-21T12:56:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="httpPostNegativeNoMetric()[pri:0, instance:ApiTest@42d3bd8b]" name="httpPostNegativeNoMetric" duration-ms="28" started-at="2017-02-21T12:56:03Z" finished-at="2017-02-21T12:56:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- httpPostNegativeNoMetric -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:ApiTest@42d3bd8b]" name="beforeMethod" is-config="true" duration-ms="2" started-at="2017-02-21T12:56:03Z" finished-at="2017-02-21T12:56:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="httpPostUpdateNegative()[pri:0, instance:ApiTest@42d3bd8b]" name="httpPostUpdateNegative" duration-ms="36" started-at="2017-02-21T12:56:03Z" finished-at="2017-02-21T12:56:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- httpPostUpdateNegative -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:ApiTest@42d3bd8b]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2017-02-21T12:56:03Z" finished-at="2017-02-21T12:56:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="httpPostUpdateNegativeNoMetric()[pri:0, instance:ApiTest@42d3bd8b]" name="httpPostUpdateNegativeNoMetric" duration-ms="28" started-at="2017-02-21T12:56:03Z" finished-at="2017-02-21T12:56:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- httpPostUpdateNegativeNoMetric -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:ApiTest@42d3bd8b]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2017-02-21T12:56:03Z" finished-at="2017-02-21T12:56:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="httpGetSingleNegative()[pri:0, instance:ApiTest@42d3bd8b]" name="httpGetSingleNegative" duration-ms="28" started-at="2017-02-21T12:56:03Z" finished-at="2017-02-21T12:56:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- httpGetSingleNegative -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:ApiTest@42d3bd8b]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2017-02-21T12:56:03Z" finished-at="2017-02-21T12:56:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="httpGetReadList()[pri:0, instance:ApiTest@42d3bd8b]" name="httpGetReadList" duration-ms="47" started-at="2017-02-21T12:56:03Z" finished-at="2017-02-21T12:56:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- httpGetReadList -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:ApiTest@42d3bd8b]" name="beforeMethod" is-config="true" duration-ms="2" started-at="2017-02-21T12:56:03Z" finished-at="2017-02-21T12:56:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="httpGetReadListNegative()[pri:0, instance:ApiTest@42d3bd8b]" name="httpGetReadListNegative" duration-ms="25" started-at="2017-02-21T12:56:03Z" finished-at="2017-02-21T12:56:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- httpGetReadListNegative -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:ApiTest@42d3bd8b]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2017-02-21T12:56:03Z" finished-at="2017-02-21T12:56:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="httpDelete()[pri:0, instance:ApiTest@42d3bd8b]" name="httpDelete" duration-ms="59" started-at="2017-02-21T12:56:03Z" finished-at="2017-02-21T12:56:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- httpDelete -->
+      </class> <!-- ApiTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

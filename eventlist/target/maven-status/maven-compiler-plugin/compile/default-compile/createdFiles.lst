@@ -1,0 +1,15 @@
+eventlist\data\EventsDAO$1.class
+eventlist\data\EventsDbManager.class
+eventlist\controller\EventsController.class
+eventlist\etl\JsonFileLoader$1.class
+eventlist\controller\UploadController.class
+eventlist\model\GetDataTablesRequestDTO.class
+eventlist\etl\JsonStreamLoader.class
+eventlist\etl\JsonStreamLoader$1.class
+eventlist\model\EventPeriodType.class
+eventlist\etl\EventRecord.class
+eventlist\model\Event.class
+eventlist\data\EventsDAO.class
+eventlist\model\GetDataTablesResponseDTO.class
+eventlist\listener\CreateDatabaseListener.class
+eventlist\etl\JsonFileLoader.class

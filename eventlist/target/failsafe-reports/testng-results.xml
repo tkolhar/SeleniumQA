@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="709344" started-at="2017-02-21T17:32:22Z" finished-at="2017-02-21T17:44:11Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="709344" started-at="2017-02-21T17:32:22Z" finished-at="2017-02-21T17:44:11Z">
+      <class name="eventIT">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:eventIT@3cda1055]" name="beforeMethod" is-config="true" duration-ms="8559" started-at="2017-02-21T12:32:22Z" finished-at="2017-02-21T12:32:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="validateAdd()[pri:0, instance:eventIT@3cda1055]" name="validateAdd" duration-ms="584640" started-at="2017-02-21T12:32:30Z" finished-at="2017-02-21T12:42:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAdd -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:eventIT@3cda1055]" name="afterMethod" is-config="true" duration-ms="4242" started-at="2017-02-21T12:42:15Z" finished-at="2017-02-21T12:42:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:eventIT@3cda1055]" name="beforeMethod" is-config="true" duration-ms="7764" started-at="2017-02-21T12:42:19Z" finished-at="2017-02-21T12:42:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="validateDelete()[pri:0, instance:eventIT@3cda1055]" name="validateDelete" duration-ms="22486" started-at="2017-02-21T12:42:27Z" finished-at="2017-02-21T12:42:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDelete -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:eventIT@3cda1055]" name="afterMethod" is-config="true" duration-ms="3892" started-at="2017-02-21T12:42:50Z" finished-at="2017-02-21T12:42:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:eventIT@3cda1055]" name="beforeMethod" is-config="true" duration-ms="5809" started-at="2017-02-21T12:42:53Z" finished-at="2017-02-21T12:42:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="validateEventPage()[pri:0, instance:eventIT@3cda1055]" name="validateEventPage" duration-ms="2060" started-at="2017-02-21T12:42:59Z" finished-at="2017-02-21T12:43:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateEventPage -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:eventIT@3cda1055]" name="afterMethod" is-config="true" duration-ms="3356" started-at="2017-02-21T12:43:01Z" finished-at="2017-02-21T12:43:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:eventIT@3cda1055]" name="beforeMethod" is-config="true" duration-ms="6634" started-at="2017-02-21T12:43:05Z" finished-at="2017-02-21T12:43:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="validateUpdate()[pri:0, instance:eventIT@3cda1055]" name="validateUpdate" duration-ms="1298" started-at="2017-02-21T12:43:11Z" finished-at="2017-02-21T12:43:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUpdate -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:eventIT@3cda1055]" name="afterMethod" is-config="true" duration-ms="3105" started-at="2017-02-21T12:43:13Z" finished-at="2017-02-21T12:43:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:eventIT@3cda1055]" name="beforeMethod" is-config="true" duration-ms="6554" started-at="2017-02-21T12:43:16Z" finished-at="2017-02-21T12:43:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="validateAddMetric()[pri:0, instance:eventIT@3cda1055]" name="validateAddMetric" duration-ms="45985" started-at="2017-02-21T12:43:22Z" finished-at="2017-02-21T12:44:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAddMetric -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:eventIT@3cda1055]" name="afterMethod" is-config="true" duration-ms="2907" started-at="2017-02-21T12:44:08Z" finished-at="2017-02-21T12:44:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- eventIT -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
